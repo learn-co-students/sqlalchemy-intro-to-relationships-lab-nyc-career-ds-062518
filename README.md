@@ -55,7 +55,7 @@ Associate the actors to the following roles.  There should be eight roles in tot
     * a role of your choice
     * a role of your choice    
 
-Note that we can create instances of the Role class while making the association in the following manner: 
+Note that we can create instances of the Role class while making the association in the following manner:
 
 ```python
 woody_harrelson = Actor(name='Woody Harrelson')
